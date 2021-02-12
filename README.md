@@ -1,5 +1,10 @@
 ### Hi there 👋
-![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=radical)
+
+<h1 align="center">
+
+![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=blueberry)
+
+</h1>
 <!--
 **tianshihao/tianshihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
