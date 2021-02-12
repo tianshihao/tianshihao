@@ -2,7 +2,7 @@
 
 <center>Hi there 👋</center>
 
-![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=blueberry)
+![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
 </h1>
 
