@@ -2,6 +2,9 @@
 
 <center>Hi there! 👋</center>
 
+I'm a programming enthusiast and software engineer. Nice to meet you.
+
+
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
 </h1>
