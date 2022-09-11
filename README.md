@@ -10,6 +10,10 @@ I'm a programming enthusiast and engineer. Nice to meet you!
 
 - 🌱 I’m currently learning C++!
 
+</h1>
+
+<h1 align="center">
+
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
 </h1>
