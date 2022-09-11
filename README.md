@@ -1,9 +1,14 @@
+<h1 align="center">
+
+Hi there! 👋
+
+</h1>
+
 <h1>
 
-<center>Hi there! 👋</center>
+I'm a programming enthusiast and engineer. Nice to meet you!
 
-
-I'm a programming enthusiast and engineer. Nice to meet you.
+- 🌱 I’m currently learning cpp!
 
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
