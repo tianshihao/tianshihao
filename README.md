@@ -2,12 +2,12 @@
 
 <center>Hi there! 👋</center>
 
-I'm a programming enthusiast and software engineer. Nice to meet you.
+</h1>
 
+I'm a programming enthusiast and engineer. Nice to meet you.
 
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
-</h1>
 
 <!--
 **tianshihao/tianshihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
