@@ -8,7 +8,7 @@ Hi there! 👋
 
 I'm a programming enthusiast and engineer. Nice to meet you!
 
-- 🌱 I’m currently learning cpp!
+- 🌱 I’m currently learning C++!
 
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
 
