@@ -1,6 +1,6 @@
 <h1 align="left">
 
-<center>Hi there! 👋</center>
+Hi there!👋
 
 I'm a programming enthusiast and engineer. Nice to meet you!
 
