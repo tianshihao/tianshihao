@@ -1,13 +1,11 @@
-<h1 align="center">
+<h1 align="left">
 
 <center>Hi there! 👋</center>
 
-<left>
 I'm a programming enthusiast and engineer. Nice to meet you!
 
 - 🌱 I’m currently learning C++!
 - 👀 More about me: tianshihao.github.io
-</left>
 
 </h1>
 
