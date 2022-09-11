@@ -5,7 +5,7 @@ Hi there!👋
 I'm a programming enthusiast and engineer. Nice to meet you!
 
 - 🌱 I’m currently learning C++!
-- 👀 More about me: tianshihao.github.io
+- 👀 More about me: https://tianshihao.github.io/
 
 </h1>
 
