@@ -2,11 +2,13 @@
 
 I'm Shihao Tian, a programming enthusiast and engineer. Nice to meet you!
 
-- 🌱 I’m currently learning C++!
+- 🌱 I’m currently learning C++ and CUDA!
 - 🚀 I'm developing a vscode extension: [Daily Notes](https://github.com/tianshihao/daily-notes)
+<!--
 - 👀 More about me: <https://tianshihao.github.io/>, <https://www.cnblogs.com/tianshihao>
 
 ![tianshihao's Github stats](https://github-readme-stats.vercel.app/api?username=tianshihao&count_private=true&show_icons=true&theme=buefy)
+-->
 
 <!--
 **tianshihao/tianshihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
